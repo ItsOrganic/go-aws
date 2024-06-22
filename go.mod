@@ -8,6 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.53.3
 	github.com/aws/constructs-go/constructs/v10 v10.3.0
 	github.com/aws/jsii-runtime-go v1.98.0
+	github.com/golang-jwt/jwt/v5 v5.2.1
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 )
 
